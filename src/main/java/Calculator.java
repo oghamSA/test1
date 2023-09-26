@@ -9,7 +9,7 @@ public class Calculator {
     }
 
     public void please(){
-        System.out.println("Please God make it work");
+        System.out.println("Please God make it work please");
     }
 
 
