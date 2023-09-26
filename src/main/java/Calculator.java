@@ -4,11 +4,11 @@ public class Calculator {
         return a+b;
     }
 
-    public int subtrack(int a, int b){
-        return a-b
+    public int subtrack(int a, int b) {
+        return a - b;
     }
 
-    public please(){
+    public void please(){
         System.out.println("Please God make it work");
     }
 
